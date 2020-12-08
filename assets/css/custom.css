@@ -1,0 +1,63 @@
+.build_theme .default-form.comment-form .group-title{
+	margin-bottom:0px;	
+}
+.build_theme .default-form.comment-form h3 small a{
+	position:relative;
+	color:#333;
+	font-size:16px;
+	font-weight:500;	
+}
+.build_theme .comment-form{
+	padding:25px;	
+}
+.build_theme .build_theme{
+	margin-left:70px;	
+}
+
+/*** 
+
+====================================================================
+	Comments Area
+====================================================================
+
+ ***/
+
+.comments-area{
+	position:relative;
+	margin-top:30px;
+	margin-bottom:50px;
+}
+
+.blog-single-post .group-title {
+	position: relative;
+}
+
+.blog-single-post .group-title h3 {
+	position: relative;
+	font-size: 24px;
+	font-weight: 600;
+	margin-bottom: 30px;
+}
+
+
+.sidebar-widget.social-icon-widget {}
+.sidebar-widget.social-icon-widget ul li {
+    display: inline-block;
+    font-size: 40px;
+    margin-right: 10px;
+}
+.sidebar-widget.social-icon-widget ul li a {
+    padding-left: 0px;
+    font-size: 48px;
+    padding-right: 0;
+}
+.sidebar-widget.social-icon-widget ul li a i {}
+.sidebar-widget.social-icon-widget ul li a:before {
+    display: none;
+}
+.sidebar-widget.social-icon-widget ul li:after {
+    opacity: 0;
+}
+.tagcloud a {
+    margin: 0px 4px 10px 0px;
+}
